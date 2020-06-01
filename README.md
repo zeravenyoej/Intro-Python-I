@@ -1,4 +1,4 @@
-pull request: 
+pull request: https://github.com/zeravenyoej/Intro-Python-I/pull/1
 # Intro to Python I
 
 It's time to learn a new language! Python!
